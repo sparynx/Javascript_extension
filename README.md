@@ -1,2 +1,2 @@
-# Javascript_extension
+# Javascript_extension APP
 A browser extension for saving links and important messages from webpages and social media.............
